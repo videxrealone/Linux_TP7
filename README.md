@@ -32,3 +32,8 @@ est une information saisie au clavier.**
 
 
 * **q6**
+
+![image](https://user-images.githubusercontent.com/91763346/206577127-0966de31-e18f-41d9-8fb8-6268e4145c7b.png)
+
+![image](https://user-images.githubusercontent.com/91763346/206577206-e1cce8a8-9df4-4a24-a7ab-b4e595521981.png)
+
